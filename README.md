@@ -9,6 +9,4 @@ The data being used is: [Human Activity Recognition Using Smartphones](http://ar
 
 `run_analysis.R` contains all the R code necessary to perform the analyses needed.
 
-The output of the 5th step is called `averages_data.txt`, and uploaded in the course project's form.
-
 `averages_data.txt` is the output of the 5th step of the required analysis.
