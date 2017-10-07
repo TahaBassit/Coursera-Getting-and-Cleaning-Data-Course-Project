@@ -9,4 +9,4 @@
 * The files are combined to introduce the correct names, the subject ID and the activity label to the test and train bases susccessively
 * The train and test databases are combined into a total database labeles `totalData`
 * A subset of only column names containing the terms mean or std is created.
-* A tidy database called 'averages_data` of averages is created by aggregating information from the total data base.
+* A tidy database called `averages_data` of averages is created by aggregating information from the total data base.
